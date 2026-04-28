@@ -1,0 +1,375 @@
+Feature1,Feature2,Correlation
+Index,Price,0.16969946239295658
+Index,Stock_Quantity,-0.102430406332866
+Index,Avg_Inventory,-0.14756096131692564
+Index,Lead_Time_Days,0.1532469505255768
+Index,Month,0.16556714150531557
+Index,Quarter,0.16083994973027854
+Index,Company_Hyundai India,0.8164965810220476
+Index,Company_Tata Motors,-0.8164965810220439
+Index,Car_Model_Alcazar,0.2801517952294848
+Index,Car_Model_Creta,0.28002409070744305
+Index,Car_Model_Harrier,-0.28002409070744455
+Index,Car_Model_Nexon,-0.2800879429684658
+Index,Car_Model_Nexon EV,-0.2798963861854021
+Index,Car_Model_Safari,-0.2799602384464234
+Index,Car_Model_Tiago,-0.28021564749050737
+Index,Car_Model_Tigor,-0.2801517952294861
+Index,Car_Model_Tucson,0.28021564749050615
+Index,Car_Model_Venue,0.28008794296846373
+Index,Car_Model_Verna,0.2799602384464217
+Index,Car_Model_i20,0.2798963861854008
+Index,Car_Type_Electric SUV,-0.2798963861854021
+Index,Car_Type_Premium SUV,0.28021564749050615
+Price,Units_Sold,-0.4511169664698933
+Price,COGS,0.13657451471076745
+Price,Inventory_Turnover_Ratio,0.14531116627670168
+Price,Days_Sales_Inventory,-0.14519096408933407
+Price,Company_Hyundai India,0.2950320673847589
+Price,Company_Maruti Suzuki,-0.2789368427696729
+Price,Car_Model_Alcazar,0.1968251712605328
+Price,Car_Model_Baleno,-0.17784901108331488
+Price,Car_Model_Dzire,-0.1909062746551062
+Price,Car_Model_Grand Vitara,0.13024425250683921
+Price,Car_Model_Harrier,0.1739916322637024
+Price,Car_Model_Nexon,-0.11169490582077245
+Price,Car_Model_Nexon EV,0.152244507999726
+Price,Car_Model_Safari,0.21822449882791692
+Price,Car_Model_Swift,-0.22198499695997692
+Price,Car_Model_Tiago,-0.26601425168950454
+Price,Car_Model_Tigor,-0.19987518056952475
+Price,Car_Model_Tucson,0.7692779590475154
+Price,Car_Model_Venue,-0.1557556289895219
+Price,Car_Model_i20,-0.17750775482750475
+Price,Car_Type_Compact SUV,-0.17894789932798005
+Price,Car_Type_Electric SUV,0.152244507999726
+Price,Car_Type_Hatchback,-0.4090447603463881
+Price,Car_Type_MPV,0.19987496155346343
+Price,Car_Type_Premium Hatchback,-0.17784901108331488
+Price,Car_Type_Premium SUV,0.7692779590475154
+Price,Car_Type_SUV,0.1858855445648885
+Price,Car_Type_Sedan,-0.25485654570852045
+Units_Sold,COGS,0.703137220235181
+Units_Sold,Inventory_Turnover_Ratio,0.5165618356528615
+Units_Sold,Days_Sales_Inventory,-0.4306179226581964
+Units_Sold,Seasonality_Flag,0.35311668800971274
+Units_Sold,Company_Maruti Suzuki,0.1163376345284857
+Units_Sold,Car_Model_Alcazar,-0.18467129499788965
+Units_Sold,Car_Model_Brezza,0.12285166030290448
+Units_Sold,Car_Model_Creta,0.21420553881448462
+Units_Sold,Car_Model_Grand Vitara,-0.12575199237284398
+Units_Sold,Car_Model_Nexon,0.16779408278334024
+Units_Sold,Car_Model_Safari,-0.18176218733924063
+Units_Sold,Car_Model_Swift,0.2588899589867352
+Units_Sold,Car_Model_Tiago,0.16105969600430156
+Units_Sold,Car_Model_Tigor,-0.1256782774276502
+Units_Sold,Car_Model_Tucson,-0.31860871774361577
+Units_Sold,Car_Model_i20,0.10635794131515143
+Units_Sold,Car_Type_Compact SUV,0.219598399253228
+Units_Sold,Car_Type_Hatchback,0.32348775215705666
+Units_Sold,Car_Type_MPV,-0.2836669792085912
+Units_Sold,Car_Type_Premium SUV,-0.31860871774361577
+Units_Sold,Car_Type_Sedan,-0.11660225885976466
+Units_Sold,Season_Festive,0.278581041848692
+Units_Sold,Season_Monsoon,-0.266164540693068
+Stock_Quantity,Avg_Inventory,0.7378667886504084
+Stock_Quantity,Inventory_Turnover_Ratio,-0.38639253325925915
+Stock_Quantity,Days_Sales_Inventory,0.2729807358836451
+Stock_Quantity,Company_Hyundai India,-0.16708494370508623
+Stock_Quantity,Company_Maruti Suzuki,0.14691532685977224
+COGS,Inventory_Turnover_Ratio,0.7582911982770769
+COGS,Days_Sales_Inventory,-0.5615599686261757
+COGS,Seasonality_Flag,0.3478582997410154
+COGS,Car_Model_Brezza,0.18198694976031932
+COGS,Car_Model_Creta,0.2873192174488019
+COGS,Car_Model_Dzire,-0.11809943308930382
+COGS,Car_Model_Ertiga,-0.115246708312825
+COGS,Car_Model_Harrier,0.19605171871176094
+COGS,Car_Model_Nexon EV,0.1635107973727736
+COGS,Car_Model_Tiago,-0.12903732371041218
+COGS,Car_Model_Tigor,-0.23701193932047832
+COGS,Car_Type_Compact SUV,0.13147422579605456
+COGS,Car_Type_Electric SUV,0.1635107973727736
+COGS,Car_Type_Hatchback,-0.1085368625736034
+COGS,Car_Type_MPV,-0.10081202787700907
+COGS,Car_Type_SUV,0.31263151905002956
+COGS,Car_Type_Sedan,-0.2566559559503251
+COGS,Season_Festive,0.2803103206020563
+COGS,Season_Monsoon,-0.26805338327809564
+Avg_Inventory,Inventory_Turnover_Ratio,-0.5237501047418957
+Avg_Inventory,Days_Sales_Inventory,0.37212286339396455
+Avg_Inventory,Company_Hyundai India,-0.24702172307218825
+Avg_Inventory,Company_Maruti Suzuki,0.22534199050120807
+Reorder_Point,Company_Hyundai India,-0.1592133528622825
+Reorder_Point,Company_Maruti Suzuki,0.13761111624980238
+Lead_Time_Days,Company_Hyundai India,0.25228656805514754
+Lead_Time_Days,Company_Maruti Suzuki,-0.22088845293382126
+Inventory_Turnover_Ratio,Days_Sales_Inventory,-0.5974224957228449
+Inventory_Turnover_Ratio,Seasonality_Flag,0.26454192684159
+Inventory_Turnover_Ratio,Company_Hyundai India,0.12541696045152864
+Inventory_Turnover_Ratio,Company_Maruti Suzuki,-0.12979844403057206
+Inventory_Turnover_Ratio,Car_Model_Creta,0.2777503944618235
+Inventory_Turnover_Ratio,Car_Model_Dzire,-0.11547207017936723
+Inventory_Turnover_Ratio,Car_Model_Ertiga,-0.11321778862378028
+Inventory_Turnover_Ratio,Car_Model_Harrier,0.13496229152862466
+Inventory_Turnover_Ratio,Car_Model_Nexon EV,0.11583354922358673
+Inventory_Turnover_Ratio,Car_Model_Tiago,-0.10635470710749
+Inventory_Turnover_Ratio,Car_Model_Tigor,-0.1825717528378804
+Inventory_Turnover_Ratio,Car_Type_Electric SUV,0.11583354922358673
+Inventory_Turnover_Ratio,Car_Type_SUV,0.24431734280635586
+Inventory_Turnover_Ratio,Car_Type_Sedan,-0.19237515080280235
+Inventory_Turnover_Ratio,Season_Festive,0.21280160486398886
+Inventory_Turnover_Ratio,Season_Monsoon,-0.20279157787447263
+Days_Sales_Inventory,Seasonality_Flag,-0.20692598531571846
+Days_Sales_Inventory,Company_Hyundai India,-0.12406374155256347
+Days_Sales_Inventory,Car_Model_Creta,-0.1590010879452294
+Days_Sales_Inventory,Car_Model_Ertiga,0.10901044646913612
+Days_Sales_Inventory,Car_Model_Tigor,0.24865132798964354
+Days_Sales_Inventory,Car_Type_SUV,-0.14526477132464674
+Days_Sales_Inventory,Car_Type_Sedan,0.21097358525943333
+Days_Sales_Inventory,Season_Festive,-0.14911377359133263
+Days_Sales_Inventory,Season_Monsoon,0.1792742471885161
+Month,Quarter,0.9714262484737947
+Month,Seasonality_Flag,0.19796998743633312
+Month,Season_Festive,0.5153643725026205
+Month,Season_Monsoon,0.20112529497117035
+Month,Season_Summer,-0.42366729599496156
+Month,Season_Winter,-0.23896865866586942
+Quarter,Seasonality_Flag,0.27526907654044647
+Quarter,Season_Festive,0.5978211221563984
+Quarter,Season_Monsoon,0.156196416898232
+Quarter,Season_Summer,-0.4383262369093339
+Quarter,Season_Winter,-0.2463774584852622
+Is_Weekend,Day_of_Week_Friday,-0.25770378116168824
+Is_Weekend,Day_of_Week_Monday,-0.2591465159891107
+Is_Weekend,Day_of_Week_Saturday,0.6436429366813554
+Is_Weekend,Day_of_Week_Sunday,0.647246322231176
+Is_Weekend,Day_of_Week_Thursday,-0.25770378116168935
+Is_Weekend,Day_of_Week_Tuesday,-0.25914651598910937
+Is_Weekend,Day_of_Week_Wednesday,-0.25770378116168885
+Is_Holiday,Seasonality_Flag,0.11594070376064099
+Is_Holiday,Season_Festive,0.10484825968092992
+Seasonality_Flag,Season_Festive,0.8112701031842856
+Seasonality_Flag,Season_Monsoon,-0.7745394834598796
+Seasonality_Flag,Season_Summer,0.14999119696774407
+Company_Hyundai India,Company_Maruti Suzuki,-0.5000000000000003
+Company_Hyundai India,Company_Tata Motors,-0.5000000000000019
+Company_Hyundai India,Car_Model_Alcazar,0.34299717028501614
+Company_Hyundai India,Car_Model_Baleno,-0.17149858514250968
+Company_Hyundai India,Car_Model_Brezza,-0.17149858514251046
+Company_Hyundai India,Car_Model_Creta,0.34299717028501703
+Company_Hyundai India,Car_Model_Dzire,-0.1714985851425097
+Company_Hyundai India,Car_Model_Ertiga,-0.17149858514250949
+Company_Hyundai India,Car_Model_Grand Vitara,-0.17149858514251093
+Company_Hyundai India,Car_Model_Harrier,-0.1714985851425118
+Company_Hyundai India,Car_Model_Nexon,-0.17149858514251182
+Company_Hyundai India,Car_Model_Nexon EV,-0.17149858514251146
+Company_Hyundai India,Car_Model_Safari,-0.17149858514251187
+Company_Hyundai India,Car_Model_Swift,-0.17149858514250982
+Company_Hyundai India,Car_Model_Tiago,-0.17149858514251157
+Company_Hyundai India,Car_Model_Tigor,-0.17149858514251165
+Company_Hyundai India,Car_Model_Tucson,0.34299717028501814
+Company_Hyundai India,Car_Model_Venue,0.34299717028501564
+Company_Hyundai India,Car_Model_Verna,0.3429971702850159
+Company_Hyundai India,Car_Model_i20,0.34299717028501686
+Company_Hyundai India,Car_Type_Electric SUV,-0.17149858514251146
+Company_Hyundai India,Car_Type_Premium Hatchback,-0.17149858514250968
+Company_Hyundai India,Car_Type_Premium SUV,0.34299717028501814
+Company_Maruti Suzuki,Company_Tata Motors,-0.5000000000000002
+Company_Maruti Suzuki,Car_Model_Alcazar,-0.1714985851425085
+Company_Maruti Suzuki,Car_Model_Baleno,0.3429971702850248
+Company_Maruti Suzuki,Car_Model_Brezza,0.3429971702850258
+Company_Maruti Suzuki,Car_Model_Creta,-0.17149858514250865
+Company_Maruti Suzuki,Car_Model_Dzire,0.34299717028502624
+Company_Maruti Suzuki,Car_Model_Ertiga,0.3429971702850254
+Company_Maruti Suzuki,Car_Model_Grand Vitara,0.34299717028502513
+Company_Maruti Suzuki,Car_Model_Harrier,-0.1714985851425081
+Company_Maruti Suzuki,Car_Model_Nexon,-0.17149858514250807
+Company_Maruti Suzuki,Car_Model_Nexon EV,-0.17149858514250782
+Company_Maruti Suzuki,Car_Model_Safari,-0.17149858514250857
+Company_Maruti Suzuki,Car_Model_Swift,0.34299717028502363
+Company_Maruti Suzuki,Car_Model_Tiago,-0.17149858514250782
+Company_Maruti Suzuki,Car_Model_Tigor,-0.1714985851425083
+Company_Maruti Suzuki,Car_Model_Tucson,-0.17149858514250937
+Company_Maruti Suzuki,Car_Model_Venue,-0.17149858514250782
+Company_Maruti Suzuki,Car_Model_Verna,-0.17149858514250804
+Company_Maruti Suzuki,Car_Model_i20,-0.17149858514250835
+Company_Maruti Suzuki,Car_Type_Electric SUV,-0.17149858514250782
+Company_Maruti Suzuki,Car_Type_Premium Hatchback,0.3429971702850248
+Company_Maruti Suzuki,Car_Type_Premium SUV,-0.17149858514250937
+Company_Tata Motors,Car_Model_Alcazar,-0.1714985851425091
+Company_Tata Motors,Car_Model_Baleno,-0.17149858514250851
+Company_Tata Motors,Car_Model_Brezza,-0.17149858514250896
+Company_Tata Motors,Car_Model_Creta,-0.1714985851425091
+Company_Tata Motors,Car_Model_Dzire,-0.17149858514250987
+Company_Tata Motors,Car_Model_Ertiga,-0.17149858514250937
+Company_Tata Motors,Car_Model_Grand Vitara,-0.1714985851425077
+Company_Tata Motors,Car_Model_Harrier,0.34299717028502663
+Company_Tata Motors,Car_Model_Nexon,0.3429971702850264
+Company_Tata Motors,Car_Model_Nexon EV,0.34299717028502574
+Company_Tata Motors,Car_Model_Safari,0.3429971702850272
+Company_Tata Motors,Car_Model_Swift,-0.17149858514250735
+Company_Tata Motors,Car_Model_Tiago,0.3429971702850259
+Company_Tata Motors,Car_Model_Tigor,0.3429971702850267
+Company_Tata Motors,Car_Model_Tucson,-0.17149858514250998
+Company_Tata Motors,Car_Model_Venue,-0.17149858514250835
+Company_Tata Motors,Car_Model_Verna,-0.17149858514250838
+Company_Tata Motors,Car_Model_i20,-0.1714985851425088
+Company_Tata Motors,Car_Type_Electric SUV,0.34299717028502574
+Company_Tata Motors,Car_Type_Premium Hatchback,-0.17149858514250851
+Company_Tata Motors,Car_Type_Premium SUV,-0.17149858514250998
+Car_Model_Alcazar,Car_Type_Compact SUV,-0.10846522890932797
+Car_Model_Alcazar,Car_Type_Hatchback,-0.10846522890932707
+Car_Model_Alcazar,Car_Type_MPV,0.542326144546637
+Car_Model_Alcazar,Car_Type_SUV,-0.1084652289093273
+Car_Model_Alcazar,Car_Type_Sedan,-0.10846522890932862
+Car_Model_Baleno,Car_Type_Compact SUV,-0.10846522890932798
+Car_Model_Baleno,Car_Type_Hatchback,-0.10846522890932807
+Car_Model_Baleno,Car_Type_MPV,-0.10846522890932865
+Car_Model_Baleno,Car_Type_Premium Hatchback,1.0
+Car_Model_Baleno,Car_Type_SUV,-0.10846522890932746
+Car_Model_Baleno,Car_Type_Sedan,-0.10846522890932793
+Car_Model_Brezza,Car_Type_Compact SUV,0.5423261445466423
+Car_Model_Brezza,Car_Type_Hatchback,-0.10846522890932811
+Car_Model_Brezza,Car_Type_MPV,-0.10846522890932797
+Car_Model_Brezza,Car_Type_SUV,-0.10846522890932674
+Car_Model_Brezza,Car_Type_Sedan,-0.10846522890932808
+Car_Model_Creta,Car_Type_Compact SUV,-0.10846522890932868
+Car_Model_Creta,Car_Type_Hatchback,-0.10846522890932736
+Car_Model_Creta,Car_Type_MPV,-0.10846522890932779
+Car_Model_Creta,Car_Type_SUV,0.5423261445466414
+Car_Model_Creta,Car_Type_Sedan,-0.10846522890932896
+Car_Model_Dzire,Car_Type_Compact SUV,-0.10846522890932812
+Car_Model_Dzire,Car_Type_Hatchback,-0.1084652289093283
+Car_Model_Dzire,Car_Type_MPV,-0.10846522890932772
+Car_Model_Dzire,Car_Type_SUV,-0.10846522890932639
+Car_Model_Dzire,Car_Type_Sedan,0.5423261445466413
+Car_Model_Ertiga,Car_Type_Compact SUV,-0.10846522890932829
+Car_Model_Ertiga,Car_Type_Hatchback,-0.10846522890932825
+Car_Model_Ertiga,Car_Type_MPV,0.5423261445466391
+Car_Model_Ertiga,Car_Type_SUV,-0.10846522890932675
+Car_Model_Ertiga,Car_Type_Sedan,-0.10846522890932815
+Car_Model_Grand Vitara,Car_Type_Compact SUV,-0.10846522890932798
+Car_Model_Grand Vitara,Car_Type_Hatchback,-0.10846522890932782
+Car_Model_Grand Vitara,Car_Type_MPV,-0.10846522890932825
+Car_Model_Grand Vitara,Car_Type_SUV,0.5423261445466401
+Car_Model_Grand Vitara,Car_Type_Sedan,-0.10846522890932761
+Car_Model_Harrier,Car_Type_Compact SUV,-0.10846522890932898
+Car_Model_Harrier,Car_Type_Hatchback,-0.1084652289093297
+Car_Model_Harrier,Car_Type_MPV,-0.10846522890932972
+Car_Model_Harrier,Car_Type_SUV,0.5423261445466426
+Car_Model_Harrier,Car_Type_Sedan,-0.10846522890932833
+Car_Model_Nexon,Car_Type_Compact SUV,0.5423261445466405
+Car_Model_Nexon,Car_Type_Hatchback,-0.10846522890932957
+Car_Model_Nexon,Car_Type_MPV,-0.10846522890933004
+Car_Model_Nexon,Car_Type_SUV,-0.10846522890932751
+Car_Model_Nexon,Car_Type_Sedan,-0.1084652289093282
+Car_Model_Nexon EV,Car_Type_Compact SUV,-0.10846522890932886
+Car_Model_Nexon EV,Car_Type_Electric SUV,1.0
+Car_Model_Nexon EV,Car_Type_Hatchback,-0.10846522890932944
+Car_Model_Nexon EV,Car_Type_MPV,-0.10846522890932975
+Car_Model_Nexon EV,Car_Type_SUV,-0.108465228909327
+Car_Model_Nexon EV,Car_Type_Sedan,-0.10846522890932811
+Car_Model_Safari,Car_Type_Compact SUV,-0.10846522890932901
+Car_Model_Safari,Car_Type_Hatchback,-0.10846522890932968
+Car_Model_Safari,Car_Type_MPV,0.5423261445466417
+Car_Model_Safari,Car_Type_SUV,-0.10846522890932724
+Car_Model_Safari,Car_Type_Sedan,-0.10846522890932819
+Car_Model_Swift,Car_Type_Compact SUV,-0.10846522890932841
+Car_Model_Swift,Car_Type_Hatchback,0.5423261445466442
+Car_Model_Swift,Car_Type_MPV,-0.10846522890932779
+Car_Model_Swift,Car_Type_SUV,-0.10846522890932637
+Car_Model_Swift,Car_Type_Sedan,-0.10846522890932757
+Car_Model_Tiago,Car_Type_Compact SUV,-0.10846522890932886
+Car_Model_Tiago,Car_Type_Hatchback,0.5423261445466472
+Car_Model_Tiago,Car_Type_MPV,-0.10846522890932986
+Car_Model_Tiago,Car_Type_SUV,-0.10846522890932739
+Car_Model_Tiago,Car_Type_Sedan,-0.1084652289093287
+Car_Model_Tigor,Car_Type_Compact SUV,-0.10846522890932872
+Car_Model_Tigor,Car_Type_Hatchback,-0.10846522890933012
+Car_Model_Tigor,Car_Type_MPV,-0.10846522890932968
+Car_Model_Tigor,Car_Type_SUV,-0.10846522890932733
+Car_Model_Tigor,Car_Type_Sedan,0.5423261445466432
+Car_Model_Tucson,Car_Type_Compact SUV,-0.10846522890932885
+Car_Model_Tucson,Car_Type_Hatchback,-0.10846522890932768
+Car_Model_Tucson,Car_Type_MPV,-0.10846522890932833
+Car_Model_Tucson,Car_Type_Premium SUV,1.0
+Car_Model_Tucson,Car_Type_SUV,-0.10846522890932812
+Car_Model_Tucson,Car_Type_Sedan,-0.10846522890932937
+Car_Model_Venue,Car_Type_Compact SUV,0.542326144546637
+Car_Model_Venue,Car_Type_Hatchback,-0.1084652289093273
+Car_Model_Venue,Car_Type_MPV,-0.10846522890932762
+Car_Model_Venue,Car_Type_SUV,-0.10846522890932747
+Car_Model_Venue,Car_Type_Sedan,-0.10846522890932883
+Car_Model_Verna,Car_Type_Compact SUV,-0.10846522890932811
+Car_Model_Verna,Car_Type_Hatchback,-0.10846522890932761
+Car_Model_Verna,Car_Type_MPV,-0.10846522890932729
+Car_Model_Verna,Car_Type_SUV,-0.10846522890932792
+Car_Model_Verna,Car_Type_Sedan,0.542326144546641
+Car_Model_i20,Car_Type_Compact SUV,-0.10846522890932765
+Car_Model_i20,Car_Type_Hatchback,0.5423261445466447
+Car_Model_i20,Car_Type_MPV,-0.1084652289093268
+Car_Model_i20,Car_Type_SUV,-0.10846522890932746
+Car_Model_i20,Car_Type_Sedan,-0.1084652289093286
+Car_Type_Compact SUV,Car_Type_Electric SUV,-0.10846522890932883
+Car_Type_Compact SUV,Car_Type_Hatchback,-0.2000000000000004
+Car_Type_Compact SUV,Car_Type_MPV,-0.20000000000000276
+Car_Type_Compact SUV,Car_Type_Premium Hatchback,-0.10846522890932798
+Car_Type_Compact SUV,Car_Type_Premium SUV,-0.10846522890932885
+Car_Type_Compact SUV,Car_Type_SUV,-0.20000000000000137
+Car_Type_Compact SUV,Car_Type_Sedan,-0.20000000000000234
+Car_Type_Electric SUV,Car_Type_Hatchback,-0.10846522890932944
+Car_Type_Electric SUV,Car_Type_MPV,-0.10846522890932975
+Car_Type_Electric SUV,Car_Type_SUV,-0.108465228909327
+Car_Type_Electric SUV,Car_Type_Sedan,-0.10846522890932811
+Car_Type_Hatchback,Car_Type_MPV,-0.20000000000000062
+Car_Type_Hatchback,Car_Type_Premium Hatchback,-0.10846522890932807
+Car_Type_Hatchback,Car_Type_Premium SUV,-0.10846522890932768
+Car_Type_Hatchback,Car_Type_SUV,-0.19999999999999962
+Car_Type_Hatchback,Car_Type_Sedan,-0.20000000000000193
+Car_Type_MPV,Car_Type_Premium Hatchback,-0.10846522890932869
+Car_Type_MPV,Car_Type_Premium SUV,-0.10846522890932833
+Car_Type_MPV,Car_Type_SUV,-0.20000000000000093
+Car_Type_MPV,Car_Type_Sedan,-0.20000000000000284
+Car_Type_Premium Hatchback,Car_Type_SUV,-0.10846522890932746
+Car_Type_Premium Hatchback,Car_Type_Sedan,-0.10846522890932793
+Car_Type_Premium SUV,Car_Type_SUV,-0.10846522890932812
+Car_Type_Premium SUV,Car_Type_Sedan,-0.10846522890932937
+Car_Type_SUV,Car_Type_Sedan,-0.2000000000000017
+Day_of_Week_Friday,Day_of_Week_Monday,-0.1667978245819713
+Day_of_Week_Friday,Day_of_Week_Saturday,-0.16586921850079853
+Day_of_Week_Friday,Day_of_Week_Sunday,-0.16679782458197256
+Day_of_Week_Friday,Day_of_Week_Thursday,-0.16586921850079692
+Day_of_Week_Friday,Day_of_Week_Tuesday,-0.1667978245819716
+Day_of_Week_Friday,Day_of_Week_Wednesday,-0.16586921850079697
+Day_of_Week_Monday,Day_of_Week_Saturday,-0.16679782458197084
+Day_of_Week_Monday,Day_of_Week_Sunday,-0.16773162939297026
+Day_of_Week_Monday,Day_of_Week_Thursday,-0.1667978245819712
+Day_of_Week_Monday,Day_of_Week_Tuesday,-0.16773162939296998
+Day_of_Week_Monday,Day_of_Week_Wednesday,-0.16679782458196998
+Day_of_Week_Saturday,Day_of_Week_Sunday,-0.16679782458197207
+Day_of_Week_Saturday,Day_of_Week_Thursday,-0.1658692185007979
+Day_of_Week_Saturday,Day_of_Week_Tuesday,-0.16679782458197126
+Day_of_Week_Saturday,Day_of_Week_Wednesday,-0.16586921850079778
+Day_of_Week_Sunday,Day_of_Week_Thursday,-0.16679782458197268
+Day_of_Week_Sunday,Day_of_Week_Tuesday,-0.16773162939297023
+Day_of_Week_Sunday,Day_of_Week_Wednesday,-0.16679782458197143
+Day_of_Week_Thursday,Day_of_Week_Tuesday,-0.1667978245819715
+Day_of_Week_Thursday,Day_of_Week_Wednesday,-0.16586921850079717
+Day_of_Week_Tuesday,Day_of_Week_Wednesday,-0.16679782458197
+Region_Central,Region_East,-0.25000000000000167
+Region_Central,Region_North,-0.24999999999999992
+Region_Central,Region_South,-0.24999999999999978
+Region_Central,Region_West,-0.2500000000000012
+Region_East,Region_North,-0.2500000000000005
+Region_East,Region_South,-0.2500000000000006
+Region_East,Region_West,-0.24999999999999975
+Region_North,Region_South,-0.24999999999999745
+Region_North,Region_West,-0.2499999999999982
+Region_South,Region_West,-0.24999999999999828
+Season_Festive,Season_Monsoon,-0.31681205721257044
+Season_Festive,Season_Summer,-0.2595891386300376
+Season_Festive,Season_Winter,-0.2567610906083625
+Season_Monsoon,Season_Summer,-0.41053073889349245
+Season_Monsoon,Season_Winter,-0.4060582842673416
+Season_Summer,Season_Winter,-0.332715620655268
