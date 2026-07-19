@@ -46,7 +46,6 @@ Notes & Next Steps
 
 License & Author
 - Author: Yuvanshu Dadhich
-- License: (add license file if you want this project to be open-source)
 
 Contact
 - For questions or improvements, open an issue or contact the author via the GitHub repository.
